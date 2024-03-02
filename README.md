@@ -11,6 +11,8 @@ The ViT model breaks away from the conventional convolutional neural network (CN
 * **Transformer Encoder**: A stack of transformer encoder layers processes the patch embeddings, enabling the model to capture both local and global image features through self-attention mechanisms and feed-forward neural networks.
 * **Classification Head**: Following the transformer encoder, a simple classification head (usually a linear layer) is attached to predict the class labels for the input image.
 
+## (Code)[https://kunal-kumar-sahoo.github.io/ViT-from-Scratch/main.html]
+
 ## References
 
 * Dosovitskiy, A., et al. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale." arXiv preprint arXiv:2010.11929 (2020).
